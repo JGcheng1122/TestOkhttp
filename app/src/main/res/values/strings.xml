@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestOkhttp</string>
+    <string name="btnHttp">handleBG</string>
+    <string name="btnReq">Request</string>
+</resources>
